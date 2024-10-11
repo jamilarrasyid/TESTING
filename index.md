@@ -1,3 +1,10 @@
 # ZIKIR DAN WIRID MUDI MEKAR
 
-![gambar masa kelam](/ASET/dark.png)
+## [DAFTAR ISI](/TESTING/DAFTAR%20ISI/)
+## [SUPPORT KAMI](/TESTING/SUPPORT%20KAMI/)
+## [DOWNLOAD PFD](/TESTING/DOWNLOAD%20PDF/)
+
+
+Saya harap dengan ada nya dzikir dan wirid ini, baik teman-teman, keluarga,
+atau kerabat kalian yang sedang mencari doa-doa atau dzikir ini akan tebantu.
+ 
