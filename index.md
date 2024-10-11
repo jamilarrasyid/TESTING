@@ -1,5 +1,5 @@
 <style>
-body {background: no-repeat url("ASET/LOGO.jpg");}
+body {background: no-repeat url("ASET/LOGO.jpg") center;}
 </style>
 
 # ZIKIR DAN WIRID MUDI MEKAR
