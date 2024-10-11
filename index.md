@@ -1,3 +1,7 @@
+<style>
+    body {background-image: "/TESTING/ASET/LOGO.jpg"}
+</style>
+
 # ZIKIR DAN WIRID MUDI MEKAR
 
 ## [DAFTAR ISI](/TESTING/DAFTAR%20ISI/)
