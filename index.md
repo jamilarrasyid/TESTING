@@ -1,7 +1,3 @@
-<style>
-body {background: no-repeat url("ASET/LOGO.jpg") center;}
-</style>
-
 # ZIKIR DAN WIRID MUDI MEKAR
 
 ## [DAFTAR ISI](/TESTING/DAFTAR%20ISI/)
